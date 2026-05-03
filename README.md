@@ -1,16 +1,16 @@
 # Taller de Pruebas de Carga y Rendimiento
 
-## 🎯 Objetivo
+##  Objetivo
 Evaluar el comportamiento del sistema bajo diferentes niveles de carga utilizando k6.
 
 ---
 
-## ⚙️ Herramienta utilizada
+##  Herramienta utilizada
 - k6 (pruebas de carga sobre API HTTP)
 
 ---
 
-## 📊 Escenarios ejecutados
+##  Escenarios ejecutados
 
 | Escenario | Descripción |
 |----------|------------|
@@ -20,7 +20,7 @@ Evaluar el comportamiento del sistema bajo diferentes niveles de carga utilizand
 
 ---
 
-## 🧪 Ejecución
+##  Ejecución
 
 ```bash
 set SCENARIO=baseline
